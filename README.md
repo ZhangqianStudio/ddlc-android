@@ -6,7 +6,7 @@
 This is the source code of Doki Doki literuature club.
 **You need Git-Lfs to clone it. [git-lfs](https://github.com/git-lfs/git-lfs/wiki/Installation).**
 
-Not sure if it's under copyright. But the developer didn't mind.
+The license of the original game is not specified, but developer is [against (see 'Fan Games' section)](http://teamsalvato.com/ip-guidelines/) porting the game to other platforms.
 
 *Thanks to, [Ren`Py](https://github.com/renpy/renpy), [unrpa](https://github.com/Lattyware/unrpa), [unrpyc](https://github.com/CensoredUsername/unrpyc)!*
 ## TODO
